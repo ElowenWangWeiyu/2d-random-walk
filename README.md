@@ -14,7 +14,7 @@ The random walk starts at the origin (0, 0), and the user can specify the number
 
 1. Clone the repository to your local machine:
 2. Install the required dependencies: %pip install matplotlib numpy
-3. Run the script:
+3. Run the script:2d random walk.py
 4. Enter the number of steps for the random walk when prompted.
 
 ## Example Output
