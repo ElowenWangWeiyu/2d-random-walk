@@ -19,8 +19,7 @@ The random walk starts at the origin (0, 0), and the user can specify the number
 
 ## Example Output
 
-Here’s an example of a 2D random walk with 100 steps: ![Example Random Walk] example plot of a 2d random walk trajectory with 100 steps.png
-
+Here’s an example of a 2D random walk with 100 steps: ![Example Random Walk](https://github.com/ElowenWangWeiyu/2d-random-walk/blob/main/example%20plot%20of%20a%202d%20random%20walk%20trajectory%20with%20100%20steps.png)
 ## Dependencies
 - Python 3.x
 - `matplotlib`
